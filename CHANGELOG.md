@@ -5,6 +5,7 @@
 
 ### Features
 - Show the reference of entities in search results (thanks to [@artlepool](https://github.com/artlepool))
+- Ability to choose a stylesheet theme (thanks to [@astagi](https://github.com/astagi))
 - Autofocus on search modal
 - Select multiple backlog US with `shift`
 - Public projects
